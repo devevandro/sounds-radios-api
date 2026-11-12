@@ -32,12 +32,12 @@
     "@nestjs/schedule": "^2.2.1",
     "@nestjs/swagger": "^6.3.0",
     "@types/bcryptjs": "^2.4.2",
-    "axios": "^0.25.0",
+    "axios": "^0.34.0",
     "bull": "^4.8.3",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
     "dayjs": "^1.10.7",
-    "mongoose": "^7.2.0",
+    "mongoose": "^7.8.13",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
@@ -46,7 +46,7 @@
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
-    "@faker-js/faker": "^7.4.0",
+    "@faker-js/faker": "^10.5.0",
     "@nestjs/schematics": "^8.0.0",
     "@nestjs/testing": "^9.4.0",
     "@types/bull": "^3.15.8",
@@ -70,7 +70,7 @@
     "ts-node": "^10.0.0",
     "tsconfig-paths": "^3.10.1",
     "typescript": "^4.3.5",
-    "vitest": "^0.30.1"
+    "vitest": "^5.1.0"
   },
   "config": {
     "commitizen": {
